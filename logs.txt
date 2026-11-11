@@ -1,0 +1,4 @@
+2026-11-10 09:15:02 INFO Application started
+2026-11-10 09:16:10 ERROR Could not connect to the database
+2026-11-10 09:17:43 WARNING Retry scheduled
+2026-11-10 09:18:01 ERROR Request timed out
